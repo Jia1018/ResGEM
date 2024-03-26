@@ -5,7 +5,7 @@ Official code for the TVCG paper "ResGEM: Multi-scale Graph Embedding Network fo
 Pytorch and torch_geometric are required.
 
 ### Usage
-We temporally provide PREPROCESSED Synthetic and checkpoint data of the first normal regression iteration, which can be run by the following command:
+We temporally provide PREPROCESSED Synthetic data and checkpoint of the first normal regression iteration, which can be run by the following command:
 ```
 python infer.py --testset ./data/test --data_type Synthetic --graph_type DENSE_FACE --resume ./ckpt/Synthetic_nn.pth --save_dir ./data/results
 ```
