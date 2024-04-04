@@ -2,7 +2,7 @@
 Official code for the TVCG paper "ResGEM: Multi-scale Graph Embedding Network for Residual Mesh Denoising"
 
 ### Environment
-Pytorch and torch_geometric are required.
+Pytorch and Pytorch Geometric are required.
 
 ### Usage
 We temporally provide PREPROCESSED Synthetic data and checkpoint of the first normal regression iteration, which can be run by the following command:
