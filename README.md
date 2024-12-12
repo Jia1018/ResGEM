@@ -1,5 +1,5 @@
 # ResGEM
-Official code for the TVCG paper "ResGEM: Multi-scale Graph Embedding Network for Residual Mesh Denoising"
+Official code for the TVCG paper "ResGEM: Multi-scale Graph Embedding Network for Residual Mesh Denoising"[Link](https://ieeexplore.ieee.org/document/10474148)
 
 ### Environment
 Pytorch and Pytorch Geometric are required.
